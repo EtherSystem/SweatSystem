@@ -2,7 +2,7 @@
 using MelonLoader;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(SweatSystem.Mod), "SweatSystem", "1.0.0", "EtherSystem")]
+[assembly: MelonInfo(typeof(SweatSystem.Mod), "SweatSystem", "1.0.1", "EtherSystem")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
 
 namespace SweatSystem
