@@ -9,7 +9,6 @@ namespace SweatSystem
 {
     public class Mod : MelonMod
     {
-        private float _tick;
         private const float TICK_SECONDS = 5f;              // application frequency
         private const float START_C = 30f;                  // temperature threshold before sweating begins
         private const float MAX_C = 50f;                    // temperature threshold at which perspiration reaches its maximum
