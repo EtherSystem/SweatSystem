@@ -22,4 +22,4 @@ The mod is fully functional in its current state, but it represents only the fou
 2. Place `SweatSystem.dll` inside your Mods folder.
 3. Launch the game.
 
-No additional dependencies required.
+No dependencies are required.
